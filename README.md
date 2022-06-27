@@ -18,7 +18,7 @@ Routes
 | DELETE | /places/:id/rant/:rantId | Delete a rant (comment) about a particular place |
 | GET | * | 404 page (matches any route not defined above) |
 
-Places
+| Field | Type |
 |:-----|:---------|
 | name | (string) |
 | city | (string) |
