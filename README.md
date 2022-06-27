@@ -19,7 +19,7 @@ Routes
 | GET | * | 404 page (matches any route not defined above) |
 
 Places
-
+|:-----|:---------|
 | name | (string) |
 | city | (string) |
 | state | (string) |
