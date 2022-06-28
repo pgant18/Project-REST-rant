@@ -2,3 +2,10 @@ h1 {
     text-align: center;
     color: coral;
 }
+
+img {
+    max-width: 50%;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;  
+}
