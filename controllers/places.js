@@ -26,6 +26,7 @@ router.get('/:id', (req, res) => {
 })
 router.post ('/places', (req, res) => {
 // Get data from New Post
-    res.json({'code':"new_Form"})
-});
+    console.log(req.body)
+    res.send('POST /places')
+})
 module.exports = router
